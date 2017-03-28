@@ -1,0 +1,23 @@
+{
+  "name": "nodeData",
+  "version": "1.0.0",
+  "description": "",
+  "main": "demo1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keven518/nodeData.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keven518/nodeData/issues"
+  },
+  "homepage": "https://github.com/keven518/nodeData#readme",
+  "dependencies": {
+    "mongoose": "^4.9.2"
+  }
+}
