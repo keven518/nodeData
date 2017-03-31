@@ -1,5 +1,7 @@
 # nodeData
 
+Node.js 实践：Mongoose 使用进阶
+
 模式的扩展
 默认值的类型（demo1）
 1、固定值
@@ -27,3 +29,10 @@
 数据的校验
 1、预定义的验证器：required(所有类型),Number(max,min),String(enum(枚举验证器),match)
 2、自定义的验证器
+
+中间件
+1、类型
+文档中间件(init/validate/save/remove)
+查询中间件(count/find/findOne/findOneAndRemove/findOneAndUpdate/update)
+预处理中间件
+后置处理中间件
